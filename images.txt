@@ -2,8 +2,9 @@
 #infiniflow/ragflow:dev
 #docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 #elasticsearch
-langgenius/dify-api:0.6.12
-langgenius/dify-web:0.6.12
+ubuntu/squid:latest
+#langgenius/dify-api:0.6.12
+#langgenius/dify-web:0.6.12
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
