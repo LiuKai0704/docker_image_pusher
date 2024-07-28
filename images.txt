@@ -12,4 +12,5 @@ ubuntu/squid:latest
 #--platform=linux/arm64 xiaoyaliu/alist
 #langgenius/dify-api:0.6.15
 #langgenius/dify-web:0.6.15
-infiniflow/ragflow:dev
+#infiniflow/ragflow:dev
+xprobe/xinference:latest
