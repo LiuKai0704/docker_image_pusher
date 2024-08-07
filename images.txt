@@ -1,5 +1,5 @@
 #infiniflow/ragflow
-#infiniflow/ragflow:dev
+infiniflow/ragflow:dev
 #docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 #elasticsearch
 ubuntu/squid:latest
@@ -14,6 +14,6 @@ ubuntu/squid:latest
 #langgenius/dify-web:0.6.15
 #infiniflow/ragflow:dev
 #xprobe/xinference:latest
-ghcr.io/open-webui/open-webui:main
+#ghcr.io/open-webui/open-webui:main
 
 
